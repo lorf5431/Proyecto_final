@@ -1,0 +1,17 @@
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\bin\Debug\net9.0\SistemaAutobuses.Negocio.deps.json
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\bin\Debug\net9.0\SistemaAutobuses.Negocio.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\bin\Debug\net9.0\SistemaAutobuses.Negocio.pdb
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\bin\Debug\net9.0\SistemaAutobuses.Datos.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\bin\Debug\net9.0\SistemaAutobuses.Entidades.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\bin\Debug\net9.0\SistemaAutobuses.Entidades.pdb
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\bin\Debug\net9.0\SistemaAutobuses.Datos.pdb
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\SistemaAutobuses.Negocio.csproj.AssemblyReference.cache
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\SistemaAutobuses.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\SistemaAutobuses.Negocio.AssemblyInfoInputs.cache
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\SistemaAutobuses.Negocio.AssemblyInfo.cs
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\SistemaAutobuses.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\SistemaA.94C584C0.Up2Date
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\SistemaAutobuses.Negocio.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\refint\SistemaAutobuses.Negocio.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\SistemaAutobuses.Negocio.pdb
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Negocio\obj\Debug\net9.0\ref\SistemaAutobuses.Negocio.dll

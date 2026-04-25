@@ -1,0 +1,11 @@
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\bin\Debug\net9.0\SistemaAutobuses.Entidades.deps.json
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\bin\Debug\net9.0\SistemaAutobuses.Entidades.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\bin\Debug\net9.0\SistemaAutobuses.Entidades.pdb
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\obj\Debug\net9.0\SistemaAutobuses.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\obj\Debug\net9.0\SistemaAutobuses.Entidades.AssemblyInfoInputs.cache
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\obj\Debug\net9.0\SistemaAutobuses.Entidades.AssemblyInfo.cs
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\obj\Debug\net9.0\SistemaAutobuses.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\obj\Debug\net9.0\SistemaAutobuses.Entidades.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\obj\Debug\net9.0\refint\SistemaAutobuses.Entidades.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\obj\Debug\net9.0\SistemaAutobuses.Entidades.pdb
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Entidades\obj\Debug\net9.0\ref\SistemaAutobuses.Entidades.dll

@@ -1,0 +1,15 @@
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\bin\Debug\net9.0\SistemaAutobuses.Datos.deps.json
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\bin\Debug\net9.0\SistemaAutobuses.Datos.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\bin\Debug\net9.0\SistemaAutobuses.Datos.pdb
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\bin\Debug\net9.0\SistemaAutobuses.Entidades.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\bin\Debug\net9.0\SistemaAutobuses.Entidades.pdb
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\SistemaAutobuses.Datos.csproj.AssemblyReference.cache
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\SistemaAutobuses.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\SistemaAutobuses.Datos.AssemblyInfoInputs.cache
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\SistemaAutobuses.Datos.AssemblyInfo.cs
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\SistemaAutobuses.Datos.csproj.CoreCompileInputs.cache
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\SistemaA.1D0019E5.Up2Date
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\SistemaAutobuses.Datos.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\refint\SistemaAutobuses.Datos.dll
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\SistemaAutobuses.Datos.pdb
+C:\Users\lorf5\Desktop\Programacion\C#\TareaFinal\SistemaAutobuses.Datos\obj\Debug\net9.0\ref\SistemaAutobuses.Datos.dll
